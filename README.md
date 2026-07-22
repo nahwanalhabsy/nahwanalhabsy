@@ -18,7 +18,11 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Muhammad Nahwan Alhabsy**, a passionate Software Engineering student at **Taruna Bhakti Vocational High School** with a strong interest in web development, software engineering, and artificial intelligence. I enjoy building practical applications, learning modern technologies, and continuously improving my technical and problem-solving skills.
+I am a Software Engineering student at Taruna Bhakti Vocational
+High School with a strong interest in web development, software
+engineering, and artificial intelligence. I enjoy building practical
+applications, learning modern technologies, and continuously
+improving my technical and problem-solving skills.
 
 - 🎓 **Education:** Software Engineering at SMK Taruna Bhakti (2024 - Now)
 - 🏫 **Previous:** SMP Taruna Bhakti (2021 - 2024)
@@ -164,10 +168,6 @@ Hello! I'm **Muhammad Nahwan Alhabsy**, a passionate Software Engineering studen
   <a href="https://linkedin.com/in/nahwanalhabsy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/nahwanalhabsy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
  
-</p>
-
-<p align="center">
-  <a href="https://wa.me/6289695677112"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
