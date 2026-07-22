@@ -145,19 +145,6 @@ Hello! I'm **Muhammad Nahwan Alhabsy**, a passionate Software Engineering studen
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhwzyz&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhwzyz&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhwzyz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF" width="40%" />
-</p>
-
----
-
 ## 🛠️ Soft Skills
 
 <p align="center">
@@ -175,8 +162,8 @@ Hello! I'm **Muhammad Nahwan Alhabsy**, a passionate Software Engineering studen
 <p align="center">
   <a href="mailto:alhabsynahwan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/nahwanalhabsy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/nhwzyz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/nahwanalhabsy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+ 
 </p>
 
 <p align="center">
@@ -188,7 +175,7 @@ Hello! I'm **Muhammad Nahwan Alhabsy**, a passionate Software Engineering studen
 ## 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nhwzyz&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nahwanalhabsy&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
