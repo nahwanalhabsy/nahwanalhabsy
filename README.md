@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <i>"Kode yang baik adalah kode yang dapat dibaca oleh manusia dan dijalankan oleh mesin."</i> — Alex Dev
+  <i>"Kode yang baik adalah kode yang dapat dibaca oleh manusia dan dijalankan oleh mesin."</i>
 </p>
