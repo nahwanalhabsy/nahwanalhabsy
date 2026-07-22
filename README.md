@@ -37,9 +37,6 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexdev&label=Profile%20Views&color=00FFAA&style=for-the-badge" alt="Profile views" />
-</p>
 
 <p align="center">
   <i>"Kode yang baik adalah kode yang dapat dibaca oleh manusia dan dijalankan oleh mesin."</i> — Alex Dev
