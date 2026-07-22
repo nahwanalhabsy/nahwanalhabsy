@@ -172,13 +172,6 @@ improving my technical and problem-solving skills.
 
 ---
 
-## 📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nahwanalhabsy&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
-</p>
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
