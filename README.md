@@ -8,8 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20the%20Future-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Lives-Indonesia-orange?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lives" />
 </p>
 
