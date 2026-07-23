@@ -65,73 +65,6 @@ improving my technical and problem-solving skills.
 
 ---
 
-## 💼 Featured Projects
-
-### 🏢 LAPORIN | Community Complaint Management Platform
-> **Tech Stack:** Next.js, Express.js, MySQL, React Native (Expo)
-
-**LAPORIN** is a web-based application built to help citizens submit, track, and monitor complaints digitally without traditional methods, while providing administrators with tools to manage and resolve reports efficiently.
-
-**Key Features:**
-- 📝 Digital complaint submission & tracking
-- 🎯 Role-based access (Citizens, Administrators, Super Administrators)
-- 📊 Report categorization & verification
-- 🔍 Status tracking system
-- 📱 Mobile application using React Native Expo
-- 🖥️ Administrative dashboard for monitoring reports
-
-**[🔗 View Project](#)**
-
----
-
-### 🧠 MINDCARE | School Counseling Platform
-> **Tech Stack:** JavaScript, Tailwind CSS
-
-**MindCare** is a web-based school counseling platform designed to simplify mental health consultation between students and school counselors.
-
-**Key Features:**
-- 📅 Student appointment booking based on available schedules
-- 👨‍🏫 Counselor schedule management
-- ✅ Appointment request review & approval/rejection system
-- 🎨 Intuitive dashboard for counselors
-- ❤️ Focus on accessible mental health support
-
-**[🔗 View Project](#)**
-
----
-
-### 👟 SHOES STATION | E-Commerce Website
-> **Tech Stack:** HTML, CSS, JavaScript
-
-**Shoes Station** is a web-based e-commerce application built to help customers browse, discover, and purchase shoes easily through a modern online shopping experience.
-
-**Key Features:**
-- 🛍️ Product browsing & discovery
-- 📋 Detailed product information
-- 🛒 Shopping cart functionality
-- 🔒 Secure checkout process
-- 📦 Order management features
-- 📱 Responsive design for all devices
-
-**[🔗 View Project](#)**
-
----
-
-### 📱 SHOES STATION | Mobile Design
-> **Tech Stack:** UI/UX Design
-
-**Shoes Station Mobile Design** is a shoe marketplace application design that provides a modern and seamless e-commerce experience for customers to discover, browse, and purchase their favorite footwear. The design focuses on simplicity, intuitive navigation, and a clean shopping experience with a monochrome visual style.
-
-**Design Highlights:**
-- 🎨 Monochrome visual style
-- 🧭 Intuitive navigation
-- 📱 Clean mobile-first experience
-- 🛍️ Seamless shopping flow
-
-**[🔗 View Design](#)**
-
----
-
 ## 🏆 Achievements & Experience
 
 ### 🎯 UJILEVELS SMK TARUNA BHAKTI VI 2025
@@ -161,14 +94,7 @@ improving my technical and problem-solving skills.
 
 ---
 
-## 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:alhabsynahwan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nahwanalhabsy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/nahwanalhabsy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
- 
-</p>
 
 ---
 
